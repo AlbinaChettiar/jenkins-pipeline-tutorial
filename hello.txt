@@ -1,0 +1,5 @@
+Hello my name is Albina Chettiar
+Today is Monday
+This is devops lab 
+The date id 26-08-24
+and this is experiment number 7
